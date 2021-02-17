@@ -1,0 +1,18 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainBox {
+    border: 2px solid teal;
+    padding: 3px 10px;
+    border-radius: 20px;
+}
+
+.ventana{
+    background: teal;
+    width: 95%;
+    padding: 20px;
+    min-height: 900px;
+    border-radius: 22px;
+    position: relative;
+    display: none;
+}
